@@ -10,7 +10,7 @@ public class ArrowDraw : MonoBehaviour
 
     void Start()
     {
-        
+        arrowImage.gameObject.SetActive(false);
     }
 
     void Update()
